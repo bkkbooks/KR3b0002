@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0002/chant/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禮儀咸以禮儀為國而不能者何也大公曰禮者為國不用禮儀可之分擇也非所以禮儀之為國也
+  hash: sha256:92a3ac144854b3e16f6d39080a84825a70252088d052ad75b40267c377cf92df
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0002_CHANT_007-1a.1-h}
+metadata:
+  title: 六韜
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0002.xml
+hash: sha256:944e67eb69bb356178dcd5cb49048ad112849f5ea1ab7240adc0009357664a39

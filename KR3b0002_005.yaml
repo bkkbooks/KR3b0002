@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0002/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 利人之必行也必行者民利
+  hash: sha256:1f5e409a5b227dc3c0513e0cd3c297927db0b9a8453c1f53aee682e7df93a556
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0002_CHANT_005-1a.1-h}
+metadata:
+  title: 六韜
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0002.xml
+hash: sha256:19d58284494d90a4c6a7539c54166e61039198483b4b9a6505191c8c4bb0b1e9

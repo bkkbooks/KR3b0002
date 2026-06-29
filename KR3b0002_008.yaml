@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0002/chant/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大失不法邪不亡不法禍日起不亡不法國且亂不法民多旱至不法
+  hash: sha256:3a29b44b8a5fa1c816a6c93084e372a2366ae22a820f5183daabcd07c82f5d80
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0002_CHANT_008-1a.1-h}
+metadata:
+  title: 六韜
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0002.xml
+hash: sha256:056d1f31d66a323b350d7e238aa5d9e6231cc1ab534acaa89e521c6b121cb74e

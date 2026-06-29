@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0002/chant/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 動應五不就應其聲也如景之象其刑也
+  hash: sha256:1a22c89f68a74d4d06177c7ca1831498142c145900af934246ff2333a9a2d1da
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0002_CHANT_009-1a.1-h}
+metadata:
+  title: 六韜
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0002.xml
+hash: sha256:2f5cd15db215b06dc112584494be505939e87fb2f062c0757b513e159a11b34f

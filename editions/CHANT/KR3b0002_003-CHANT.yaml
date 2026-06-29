@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0002/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 文韜舉賢文王問太公曰舉賢而國危亡者何也太公賢之實好用以善而以故不得不忠為忠以非信為信以譽為功以黨者是其群至比周習也而忠臣死於無罪其邪臣以
+  hash: sha256:25cbf180607e128a3ee7c1cacda0203301e8feb7c11f75467b27de3ea0b04fd8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0002_CHANT_003-1a.1-h}
+metadata:
+  title: 六韜
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0002.xml
+hash: sha256:56f9e9a484ee3d9e211f151c67af6443e2d57bcc4d17c8b6f807e937167661c4

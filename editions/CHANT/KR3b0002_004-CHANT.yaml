@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3b0002/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 龍韜農器問大公曰天下大定國家毋
+  hash: sha256:0d43e318cb8d52a12cb79f034d5abb106296d8f69805fa804e7ce6e2e822edee
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3b0002_CHANT_004-1a.1-h}
+metadata:
+  title: 六韜
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0002.xml
+hash: sha256:c618529e3a9ae529235b6b635ce38719e8dab9e23e2b46b7fdf015915d512e42

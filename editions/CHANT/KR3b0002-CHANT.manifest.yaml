@@ -1,0 +1,141 @@
+canonical_identifier: bkk:krp/KR3b0002/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3b0002/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 六韜
+  identifiers:
+    krp: KR3b0002
+  tags:
+    kr-categories: KR3b
+  source:
+    repository: tls-texts
+    path: data/tls/KR3b0002.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3b0002_001-CHANT.yaml, hash: 'sha256:24392297c0fb06d0fe741a46b730413beda4e3888696299de8ec0388d6bce2c4'}
+  - {seq: 2, filename: KR3b0002_002-CHANT.yaml, hash: 'sha256:23c4ff43a5183a83c6adb0bd1e9e7e128933baf59a541767d15207b988bdd250'}
+  - {seq: 3, filename: KR3b0002_003-CHANT.yaml, hash: 'sha256:56f9e9a484ee3d9e211f151c67af6443e2d57bcc4d17c8b6f807e937167661c4'}
+  - {seq: 4, filename: KR3b0002_004-CHANT.yaml, hash: 'sha256:c618529e3a9ae529235b6b635ce38719e8dab9e23e2b46b7fdf015915d512e42'}
+  - {seq: 5, filename: KR3b0002_005-CHANT.yaml, hash: 'sha256:19d58284494d90a4c6a7539c54166e61039198483b4b9a6505191c8c4bb0b1e9'}
+  - {seq: 6, filename: KR3b0002_006-CHANT.yaml, hash: 'sha256:004973ea92da3ed607a6f5ae5eb5e911988dab2fd397334e751b6c4830b663c7'}
+  - {seq: 7, filename: KR3b0002_007-CHANT.yaml, hash: 'sha256:944e67eb69bb356178dcd5cb49048ad112849f5ea1ab7240adc0009357664a39'}
+  - {seq: 8, filename: KR3b0002_008-CHANT.yaml, hash: 'sha256:056d1f31d66a323b350d7e238aa5d9e6231cc1ab534acaa89e521c6b121cb74e'}
+  - {seq: 9, filename: KR3b0002_009-CHANT.yaml, hash: 'sha256:2f5cd15db215b06dc112584494be505939e87fb2f062c0757b513e159a11b34f'}
+  - {seq: 10, filename: KR3b0002_010-CHANT.yaml, hash: 'sha256:633f6ee1e4cab52ab74eddf7dfbc0095d9ef9720543ef7de4a58f8982f91f945'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3b0002_001-CHANT.markers.yaml, hash: 'sha256:03fdbc77596b21fdfde9a0afa3e657e432ea94acf9305d65ddf6d219706513ff'}
+  - {seq: 2, role: markers, filename: assets/KR3b0002_002-CHANT.markers.yaml, hash: 'sha256:4cd923f02e170dc48996361a5c9cc3ca366090413991ad2c6771ae81ec7a02b2'}
+  - {seq: 3, role: markers, filename: assets/KR3b0002_003-CHANT.markers.yaml, hash: 'sha256:49a7f5ca86af7a6f4ed51aba2b0a43005752a1755ff7272fd2a55947418f052a'}
+  - {seq: 4, role: markers, filename: assets/KR3b0002_004-CHANT.markers.yaml, hash: 'sha256:6542945eb8bc385462170977d505d208c333cb701dc24a1a73e4c9eae93c111e'}
+  - {seq: 5, role: markers, filename: assets/KR3b0002_005-CHANT.markers.yaml, hash: 'sha256:f018536b0ca4b525233920828dab1062a0e5b513bb4dd932e318ad893aa67478'}
+  - {seq: 6, role: markers, filename: assets/KR3b0002_006-CHANT.markers.yaml, hash: 'sha256:9b3ab78ae149c7ff75642b524695d8c699ea08e67fa9c256a47ef86786e767ad'}
+  - {seq: 7, role: markers, filename: assets/KR3b0002_007-CHANT.markers.yaml, hash: 'sha256:35f3fdf189f14475b4ee12e9c61c79d695dabb2bdb1b3469b65addc8d06012f7'}
+  - {seq: 8, role: markers, filename: assets/KR3b0002_008-CHANT.markers.yaml, hash: 'sha256:2fc1171ea722ac972e93a245f7b6a6f051d7d49f35a34eb309ed99679180c3a3'}
+  - {seq: 9, role: markers, filename: assets/KR3b0002_009-CHANT.markers.yaml, hash: 'sha256:92cb96d5c0d32f8e5a7f19ae519f7c65b8ad2008cd7162d5594ad3044642f857'}
+  - {seq: 10, role: markers, filename: assets/KR3b0002_010-CHANT.markers.yaml, hash: 'sha256:60dca7e5ef1a53367aa206916f49d9f295fe5410aa16ad4af84145ef09bb6178'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3b0002_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 85
+  label: 竹簡篇題
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3b0002_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 54
+  label: 文韜國務
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3b0002_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 68
+  label: 文韜舉賢
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3b0002_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 15
+  label: 龍韜農器
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3b0002_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 11
+  label: 利人
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3b0002_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 42
+  label: 趨舍
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3b0002_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 39
+  label: 禮儀
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3b0002_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 27
+  label: 大失
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3b0002_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 16
+  label: 動應
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3b0002_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 924
+  label: 六韜逸文
+  type: section
+  level: 1
+hash: sha256:e78bb745a4b7a28eb947906ea3b32f33667bf895dd024966d9d5ebad4602b08a

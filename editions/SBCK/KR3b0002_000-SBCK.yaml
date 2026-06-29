@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3b0002/SBCK/v1/juan/0
+seq: 0
+front:
+  text: 六韜卷第一文韜
+  hash: sha256:db8c763df8c52399c380115b902d837e3ddd3d6a2e447dff5233d1a852dcb615
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3b0002_SBCK_000-1a}
+body:
+  text: 文師盈虚國務大禮明傳六守守土守國上賢舉賢賞罰兵道六韜卷第二武韜發啓文啓文伐順啓三疑六韜卷第三龍韜王翼論將選將立將將威勵軍隂符隂書軍勢竒兵五音兵徴農器六韜卷第四虎韜軍用三陳疾戰必出軍略臨境動靜金鼓絶道略地火戰壘虚六韜卷第五豹韜林戰突戰敵強敵武鳥雲山兵鳥雲澤兵少衆分險六韜卷第六犬韜分合武鋒練士敎戰均兵武車士武􅀐士戰車戰􅀐戰歩
+  hash: sha256:26e4a46eff123004250e792df354b1241e9498a41304d039d7fadff5ca203373
+metadata:
+  title: 六韜
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-11 03:51:00.376023'
+  source:
+    repository: kanripo
+    path: KR3b0002/KR3b0002_000.txt
+hash: sha256:a7db195e7ddc78dcdbf5e0e119daa80e00b6cf2812fd37f512d7aa3ddcc53118
