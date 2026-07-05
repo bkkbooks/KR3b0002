@@ -161,7 +161,6 @@ markers:
   - {type: variant, offset: 51, length: 1, content: 群, SBCK: 國}
   - {type: variant, offset: 51, length: 1, content: 群, WYG: 國}
   - {type: variant, offset: 51, length: 1, content: 群, krp: 國}
-  - {type: substitution, offset: 51, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: variant, offset: 52, length: 1, content: 至, SBCK: 強}
   - {type: variant, offset: 52, length: 1, content: 至, WYG: 强}
   - {type: variant, offset: 52, length: 1, content: 至, krp: 強}
@@ -186,4 +185,4 @@ markers:
   - {type: 'tls:seg', offset: 64, content: '', id: KR3b0002_CHANT_003-1a.17}
   - {type: xml-element, offset: 68, content: '', id: KR3b0002_CHANT_003-bkkxmlele4}
   back: []
-hash: sha256:dee73f3c7cb590c036b9423354e445b83be6c8381ef2d8a8385a195f89fe10ac
+hash: sha256:8a38892343448541e0366ddc0671e5e658dde1c07766a5c5c44988a6d6a02d0a
