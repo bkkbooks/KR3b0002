@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 竹簡篇題賢而不知賢仁第四方治國之道第六亂之要第七吏十重罪民十國所貴第八方以禮義為國第十第十二第十三舜伐有苗武大失第十四方武王勝殷第十六歸廿二幼弱第廿右方國有八禁第卅第卅一
-  hash: sha256:ff3e03bb1bc506b8ba3d37109f5c1d59682bdefbecc519fa6421e35bae704799
+  text: 竹簡篇題賢而不知賢仁第四方治國之道第六亂之要第七吏十重罪民十國所貴第八方以禮義為國第十第十二第十三舜伐有苗武大失第十四方武王勝殷第十六歸草二幼弱第草右方國有八禁第卅第卅一
+  hash: sha256:a73bf17622f81db6e2d661b1d0423a9d12d6d7b12d4a7ab1d86f4d223d53073f
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3b0002_CHANT_001-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3b0002.xml
-hash: sha256:24392297c0fb06d0fe741a46b730413beda4e3888696299de8ec0388d6bce2c4
+hash: sha256:2c4db3026da191ccfcf8ac67b0d213df9c98956c5f820adab63dafd00d3b60c1

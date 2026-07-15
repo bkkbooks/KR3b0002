@@ -84,6 +84,7 @@ markers:
   - {type: punctuation, offset: 32, content: □, id: KR3b0002_CHANT_002-bkkpn15}
   - {type: punctuation, offset: 36, content: ；, id: KR3b0002_CHANT_002-bkkpn16}
   - {type: 'tls:seg', offset: 36, content: '', id: KR3b0002_CHANT_002-1a.13}
+  - {type: substitution, offset: 39, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 44, content: ，, id: KR3b0002_CHANT_002-bkkpn17}
   - {type: 'tls:seg', offset: 44, content: '', id: KR3b0002_CHANT_002-1a.14}
   - {type: 'tls:seg', offset: 46, content: '', id: KR3b0002_CHANT_002-1a.15}
@@ -120,4 +121,4 @@ markers:
   - {type: page-break, offset: 54, content: '', id: KR3b0002_WYG_002-7b, image: WYG0726/WYG0726-0020b.png}
   - {type: variant, offset: 54, length: 0, content: '', krp: 納之莫覺其意然後可成惠施於民必無憂財民如牛馬數餧食之從而愛之心以啓智智以啓財財以啓衆衆以啓賢賢之有啓以王天下六韜卷第二}
   back: []
-hash: sha256:a6c1aa16cf3a808dc6f5bbff9ada57c769c8a64fdc7fa80a45855e274612cffd
+hash: sha256:ff2fe0eb0e66224fda840b4ab58b9d71ab2a28998b0024575d470566fd028682

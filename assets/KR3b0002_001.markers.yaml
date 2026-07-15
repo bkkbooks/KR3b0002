@@ -94,9 +94,11 @@ markers:
   - {type: 'tls:seg', offset: 67, content: '', id: KR3b0002_CHANT_001-1a.12}
   - {type: punctuation, offset: 67, content: □, id: KR3b0002_CHANT_001-bkkpn7}
   - {type: variant, offset: 67, length: 17, content: 歸廿二幼弱第廿右方國有八禁第卅第卅, WYG: 韜卷}
+  - {type: substitution, offset: 68, original: 廿, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20144}}
   - {type: 'tls:seg', offset: 70, content: '', id: KR3b0002_CHANT_001-1a.13}
+  - {type: substitution, offset: 73, original: 廿, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20144}}
   - {type: 'tls:seg', offset: 74, content: '', id: KR3b0002_CHANT_001-1a.14}
   - {type: 'tls:seg', offset: 82, content: '', id: KR3b0002_CHANT_001-1a.15}
   - {type: xml-element, offset: 85, content: '', id: KR3b0002_CHANT_001-bkkxmlele2}
   back: []
-hash: sha256:f02056977488053e33edabff65735290bdaf81206abce01d4c070313b3b5a7fd
+hash: sha256:70ae89ba7099d5a8cbb44e941006f64caf36044bf2fdd5cd8a5b52b354dff9e1
